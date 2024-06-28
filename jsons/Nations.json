@@ -1,18 +1,18 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "Elysian Imperium",
+		"leaderName": "Consular",
+		"adjective": ["People of Elys, Elysian"],
+		"startBias": ["Plains","Rivers"],
+		"preferredVictoryType": ["Domination","Diplomatic"],
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+                "startIntroPart1": "Salutations, Consular!"
+		"startIntroPart2": "From the earliest throes of Civization to the Modern Era, the Elys people have lived and died for an idea they would never see the full throes of. Will you lead this humble Tribe of Savages to it's glorious success, or watch as they fall into relative obscurity?",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": ["By order of the Elysian Imperium, I have come baring death. May you fight well.","The quiet has ended. Now comes the war."],
+		"attacked": ["A foolish move on your part.","Those who live by the sword must die by the sword."],
+		"defeated": "The human spirit is never finished when it is defeated: it is finished when it surrenders." 
+		"introduction": "I am a representative of the people of Elysia. Our friends shall be met with kindness; Our foes shall be met with violence.",
 		
 		"neutralHello": "How are you doing?",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
